@@ -1,0 +1,78 @@
+Initial composition: SI(0.002042)AL(0.001362)FE(0.000510)MN(0.000510)MG(0.000511)CA(0.000511)H(200.000000)C(100.000000)O(100.008169)
+Stage1:
+1 garnets grown
+Largest radius: 0.0997653711614399mm
+Total garnet volume: 0.0041593750000000155mm^3
+Stage2:
+2 garnets grown
+Largest radius: 0.19986129815128323mm
+Total garnet volume: 0.03486731644955636mm^3
+Stage3:
+3 garnets grown
+Largest radius: 0.2998717319198358mm
+Total garnet volume: 0.13349279702275052mm^3
+Stage4:
+3 garnets grown
+Largest radius: 0.3996371030812757mm
+Total garnet volume: 0.35592331518026243mm^3
+Stage5:
+4 garnets grown
+Largest radius: 0.49963169075834135mm
+Total garnet volume: 0.7759842700719827mm^3
+Stage6:
+4 garnets grown
+Largest radius: 0.599850540879606mm
+Total garnet volume: 1.4781863029960292mm^3
+Stage7:
+4 garnets grown
+Largest radius: 0.6996159120410459mm
+Total garnet volume: 2.5551333510751397mm^3
+Stage8:
+5 garnets grown
+Largest radius: 0.7998397542137974mm
+Total garnet volume: 4.117945400817535mm^3
+Stage9:
+5 garnets grown
+Largest radius: 0.8996051253752373mm
+Total garnet volume: 6.264418767103199mm^3
+Stage10:
+5 garnets grown
+Largest radius: 0.9998239754965019mm
+Total garnet volume: 9.139504053505913mm^3
+Stage11:
+5 garnets grown
+Largest radius: 1.0995893466579418mm
+Total garnet volume: 12.842436724593016mm^3
+Stage12:
+5 garnets grown
+Largest radius: 1.1998081967792065mm
+Total garnet volume: 17.532893831990876mm^3
+Stage13:
+5 garnets grown
+Largest radius: 1.2995735679406464mm
+Total garnet volume: 23.293682136004417mm^3
+Stage14:
+5 garnets grown
+Largest radius: 1.399792418061911mm
+Total garnet volume: 30.303186466741167mm^3
+Stage15:
+5 garnets grown
+Largest radius: 1.499557789223351mm
+Total garnet volume: 38.623226731806156mm^3
+Stage16:
+5 garnets grown
+Largest radius: 1.5997766393446156mm
+Total garnet volume: 48.45545368822555mm^3
+Stage17:
+5 garnets grown
+Largest radius: 1.6999954894658802mm
+Total garnet volume: 59.891691983431265mm^3
+Stage18:
+5 garnets grown
+Largest radius: 1.79976086062732mm
+Total garnet volume: 72.99476722691278mm^3
+Stage19:
+5 garnets grown
+Largest radius: 1.8138187083818866mm
+Total garnet volume: 74.98611317366145mm^3
+Done growing garnets
